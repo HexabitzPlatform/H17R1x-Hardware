@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-18T22:45:27Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "H17R10"
+        },
+        "Owner": "Amir Tabbakh <amir.tabbakh.m.e@gmail.com>",
+        "Size": {
+            "X": 60.62,
+            "Y": 60
+        }
+    }
+}
